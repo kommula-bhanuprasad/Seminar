@@ -1,1 +1,1 @@
-# Seminar
+# Final Year Technical Seminar
